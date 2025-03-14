@@ -1,0 +1,260 @@
+{
+    "queries": [
+        {
+            "id":1,
+            "query": "Cryptocurrency basics",
+            "narrative": "The user wants to understand the fundamental concepts of cryptocurrencies, including how they work, major types, and their role in financial systems. Relevant documents should cover blockchain technology, digital currency mechanics, and important cryptocurrency examples. Documents about traditional banking without cryptocurrency focus should be considered irrelevant.",
+            "documents": [
+               {"title": "Cryptocurrency", "url": "https://en.wikipedia.org/wiki/Cryptocurrency", "relevance_score": 4},
+               {"title": "Bitcoin", "url": "https://en.wikipedia.org/wiki/Bitcoin", "relevance_score": 4},
+               {"title": "Blockchain", "url": "https://en.wikipedia.org/wiki/Blockchain", "relevance_score": 4},
+               {"title": "Ethereum", "url": "https://en.wikipedia.org/wiki/Ethereum", "relevance_score": 3},
+               {"title": "Digital currency", "url": "https://en.wikipedia.org/wiki/Digital_currency", "relevance_score": 3},
+               {"title": "Cryptocurrency exchange", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_exchange", "relevance_score": 2},
+               {"title": "GPU mining", "url": "https://en.wikipedia.org/wiki/GPU_mining", "relevance_score": 2},
+               {"title": "Banking", "url": "https://en.wikipedia.org/wiki/Banking", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "query": "Blockchain technology explained",
+            "narrative": "The user wants to understand blockchain's structure, decentralization, and use cases beyond cryptocurrencies. Relevant documents cover consensus mechanisms, distributed ledgers, and industry applications. Documents focusing only on trading are irrelevant.",
+            "documents": [
+                {"title": "Blockchain", "url": "https://en.wikipedia.org/wiki/Blockchain", "relevance_score": 4},
+                {"title": "Distributed ledger", "url": "https://en.wikipedia.org/wiki/Distributed_ledger", "relevance_score": 4},
+                {"title": "Consensus (computer science)", "url": "https://en.wikipedia.org/wiki/Consensus_(computer_science)", "relevance_score": 3},
+                {"title": "Smart contract", "url": "https://en.wikipedia.org/wiki/Smart_contract", "relevance_score": 3},
+                {"title": "Decentralized application", "url": "https://en.wikipedia.org/wiki/Decentralized_application", "relevance_score": 3},
+                {"title": "Cryptocurrency exchange", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_exchange", "relevance_score": 1},
+                {"title": "Stock market", "url": "https://en.wikipedia.org/wiki/Stock_market", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "query": "Cryptocurrency Security Best Practices",
+            "narrative": "The user wants to understand how to securely store and manage cryptocurrencies. Relevant documents should cover wallet types, security measures, and common risks. Documents about cryptocurrency price speculation without security focus should be considered irrelevant.",
+            "documents": [
+                {"title": "Cryptocurrency wallet", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_wallet", "relevance_score": 4},
+                {"title": "Public-key cryptography", "url": "https://en.wikipedia.org/wiki/Public-key_cryptography", "relevance_score": 3},
+                {"title": "Cryptographic hash function", "url": "https://en.wikipedia.org/wiki/Cryptographic_hash_function", "relevance_score": 3},
+                {"title": "Cold storage (cryptocurrency)", "url": "https://en.wikipedia.org/wiki/Cold_storage_(cryptocurrency)", "relevance_score": 4},
+                {"title": "Cryptocurrency and crime", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_and_crime", "relevance_score": 2},
+                {"title": "Two-factor authentication", "url": "https://en.wikipedia.org/wiki/Two-factor_authentication", "relevance_score": 2},
+                {"title": "Cryptocurrency exchange", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_exchange", "relevance_score": 2},
+                {"title": "Cryptocurrency bubble", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_bubble", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "query": "What is Cryptocurrency Mining?",
+            "narrative": "The user wants to understand how cryptocurrency mining works, including the technical processes, equipment needed, and environmental impacts. Relevant documents should cover mining algorithms, hardware, and energy considerations. Documents about cryptocurrency investment without mining focus should be considered irrelevant.",
+            "documents": [
+                {"title": "Cryptocurrency mining", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_mining", "relevance_score": 4},
+                {"title": "Proof-of-work", "url": "https://en.wikipedia.org/wiki/Proof_of_work", "relevance_score": 4},
+                {"title": "Mining pool", "url": "https://en.wikipedia.org/wiki/Mining_pool", "relevance_score": 3},
+                {"title": "Application-specific integrated circuit", "url": "https://en.wikipedia.org/wiki/Application-specific_integrated_circuit", "relevance_score": 3},
+                {"title": "GPU mining", "url": "https://en.wikipedia.org/wiki/GPU_mining", "relevance_score": 4},
+                {"title": "Environmental impact of bitcoin", "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_bitcoin", "relevance_score": 2},
+                {"title": "Hashrate", "url": "https://en.wikipedia.org/wiki/Hashrate", "relevance_score": 2},
+                {"title": "Cryptocurrency investment", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_investment", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "query": "Stablecoins and Their Role in Crypto",
+            "narrative": "The user wants to understand what stablecoins are, their types, and their importance in the cryptocurrency ecosystem. Relevant documents should cover different stablecoin mechanisms, use cases, and regulatory considerations. Documents about volatile cryptocurrencies without stablecoin focus should be considered irrelevant.",
+            "documents": [
+                {"title": "Stablecoin", "url": "https://en.wikipedia.org/wiki/Stablecoin", "relevance_score": 4},
+                {"title": "Tether (cryptocurrency)", "url": "https://en.wikipedia.org/wiki/Tether_(cryptocurrency)", "relevance_score": 3},
+                {"title": "USD Coin", "url": "https://en.wikipedia.org/wiki/USD_Coin", "relevance_score": 3},
+                {"title": "Central bank digital currency", "url": "https://en.wikipedia.org/wiki/Central_bank_digital_currency", "relevance_score": 1},
+                {"title": "Cryptocurrency regulations", "url": "https://en.wikipedia.org/wiki/Cryptocurrency_regulations", "relevance_score": 0},
+                {"title": "Crypto market volatility", "url": "https://en.wikipedia.org/wiki/Crypto_market_volatility", "relevance_score": 0},
+                {"title": "Bitcoin", "url": "https://en.wikipedia.org/wiki/Bitcoin", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 6,
+            "query": "Investment strategies for beginners",
+            "narrative": "The user is seeking basic information about getting started with investing, including fundamental concepts, entry-level investment options, and risk management approaches. Relevant documents should cover investment basics, starter portfolios, and simple explanations of investment vehicles suitable for novices. Documents about complex advanced trading strategies should be considered less relevant.",
+            "documents": [
+               {"title": "Investment", "url": "https://en.wikipedia.org/wiki/Investment", "relevance_score": 3},
+               {"title": "Mutual fund", "url": "https://en.wikipedia.org/wiki/Mutual_fund", "relevance_score": 4},
+               {"title": "Exchange-traded fund", "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund", "relevance_score": 4},
+               {"title": "Index fund", "url": "https://en.wikipedia.org/wiki/Index_fund", "relevance_score": 4},
+               {"title": "Dollar cost averaging", "url": "https://en.wikipedia.org/wiki/Dollar_cost_averaging", "relevance_score": 3},
+               {"title": "Risk and return", "url": "https://en.wikipedia.org/wiki/Risk_and_return", "relevance_score": 3},
+               {"title": "Asset allocation", "url": "https://en.wikipedia.org/wiki/Asset_allocation", "relevance_score": 3},
+               {"title": "Derivatives market", "url": "https://en.wikipedia.org/wiki/Derivatives_market", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 7,
+            "query": "Real estate investment basics",
+            "narrative": "The user wants to understand the fundamentals of investing in real estate. Relevant documents should cover different real estate investment approaches, property types, REITs, and how real estate fits into an investment portfolio. Documents about stock market investing without real estate context should be considered less relevant.",
+            "documents": [
+                {"title": "Real estate investing", "url": "https://en.wikipedia.org/wiki/Real_estate_investing", "relevance_score": 4},
+                {"title": "Real estate investment trust", "url": "https://en.wikipedia.org/wiki/Real_estate_investment_trust", "relevance_score": 4},
+                {"title": "Property management", "url": "https://en.wikipedia.org/wiki/Property_management", "relevance_score": 3},
+                {"title": "Real estate development", "url": "https://en.wikipedia.org/wiki/Real_estate_development", "relevance_score": 2},
+                {"title": "Rental property", "url": "https://en.wikipedia.org/wiki/Rental_property", "relevance_score": 3},
+                {"title": "Commercial property", "url": "https://en.wikipedia.org/wiki/Commercial_property", "relevance_score": 2},
+                {"title": "Mortgage", "url": "https://en.wikipedia.org/wiki/Mortgage", "relevance_score": 3},
+                {"title": "Stock market", "url": "https://en.wikipedia.org/wiki/Stock_market", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 8,
+            "query": "How to build a diversified investment portfolio",
+            "narrative": "The user wants to understand the principles of portfolio diversification and how to construct a well-diversified investment portfolio. Relevant documents should cover asset allocation, diversification strategies, and correlation concepts. Documents about specific individual stocks without diversification context should be considered less relevant.",
+            "documents": [
+                {"title": "Modern portfolio theory", "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory", "relevance_score": 4},
+                {"title": "Diversification (finance)", "url": "https://en.wikipedia.org/wiki/Diversification_(finance)", "relevance_score": 4},
+                {"title": "Asset allocation", "url": "https://en.wikipedia.org/wiki/Asset_allocation", "relevance_score": 4},
+                {"title": "Correlation and dependence", "url": "https://en.wikipedia.org/wiki/Correlation_and_dependence", "relevance_score": 2},
+                {"title": "Risk parity", "url": "https://en.wikipedia.org/wiki/Risk_parity", "relevance_score": 3},
+                {"title": "Exchange-traded fund", "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund", "relevance_score": 2},
+                {"title": "Stock", "url": "https://en.wikipedia.org/wiki/Stock", "relevance_score": 1},
+                {"title": "Apple Inc.", "url": "https://en.wikipedia.org/wiki/Apple_Inc.", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 9,
+            "query": "Passive vs Active investing comparison",
+            "narrative": "The user wants to understand the differences between passive and active investing approaches. Relevant documents should cover passive and active investment strategies, performance comparisons, fee differences, and considerations for choosing between them. Documents about specific stocks without contextual comparison of approaches should be considered less relevant.",
+            "documents": [
+                {"title": "Passive management", "url": "https://en.wikipedia.org/wiki/Passive_management", "relevance_score": 4},
+                {"title": "Active management", "url": "https://en.wikipedia.org/wiki/Active_management", "relevance_score": 4},
+                {"title": "Index fund", "url": "https://en.wikipedia.org/wiki/Index_fund", "relevance_score": 4},
+                {"title": "Exchange-traded fund", "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund", "relevance_score": 3},
+                {"title": "Mutual fund", "url": "https://en.wikipedia.org/wiki/Mutual_fund", "relevance_score": 3},
+                {"title": "Expense ratio", "url": "https://en.wikipedia.org/wiki/Expense_ratio", "relevance_score": 3},
+                {"title": "Efficient-market hypothesis", "url": "https://en.wikipedia.org/wiki/Efficient-market_hypothesis", "relevance_score": 3},
+                {"title": "Apple Inc.", "url": "https://en.wikipedia.org/wiki/Apple_Inc.", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 10,
+            "query": "Best Retirement investment planning",
+            "narrative": "The user is looking for information about investment strategies specifically for retirement planning. Relevant documents should cover retirement accounts, long-term investment approaches, and retirement-specific financial planning. Documents about short-term trading strategies should be considered less relevant.",
+            "documents": [
+                {"title": "401(k)", "url": "https://en.wikipedia.org/wiki/401(k)", "relevance_score": 4},
+                {"title": "Individual retirement account", "url": "https://en.wikipedia.org/wiki/Individual_retirement_account", "relevance_score": 4},
+                {"title": "Pension", "url": "https://en.wikipedia.org/wiki/Pension", "relevance_score": 3},
+                {"title": "Retirement planning", "url": "https://en.wikipedia.org/wiki/Retirement_planning", "relevance_score": 4},
+                {"title": "Social Security (United States)", "url": "https://en.wikipedia.org/wiki/Social_Security_(United_States)", "relevance_score": 2},
+                {"title": "Target date fund", "url": "https://en.wikipedia.org/wiki/Target_date_fund", "relevance_score": 2},
+                {"title": "Roth IRA", "url": "https://en.wikipedia.org/wiki/Roth_IRA", "relevance_score": 3},
+                {"title": "Day trading", "url": "https://en.wikipedia.org/wiki/Day_trading", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 11,
+            "query": "How do volcanoes form?",
+            "narrative": "The user wants to understand the scientific process of volcano formation. Relevant documents should explain tectonic plate activity, magma chambers, and different types of volcanic formations. Documents that merely list famous volcanoes without explaining the formation process should be considered less relevant.",
+            "documents": [
+               {"title": "Volcanic eruption", "url": "https://en.wikipedia.org/wiki/Volcanic_eruption", "relevance_score": 5},
+               {"title": "Volcano", "url": "https://en.wikipedia.org/wiki/Volcano", "relevance_score": 4},
+               {"title": "Types of volcanic eruptions", "url": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions", "relevance_score": 3},
+               {"title": "Plate tectonics", "url": "https://en.wikipedia.org/wiki/Plate_tectonics", "relevance_score": 3},
+               {"title": "Magma", "url": "https://en.wikipedia.org/wiki/Magma", "relevance_score": 3},
+               {"title": "List of volcanoes", "url": "https://en.wikipedia.org/wiki/List_of_volcanoes", "relevance_score": 1},
+               {"title": "Volcanic ash", "url": "https://en.wikipedia.org/wiki/Volcanic_ash", "relevance_score": 0},
+               {"title": "Mount Vesuvius", "url": "https://en.wikipedia.org/wiki/Mount_Vesuvius", "relevance_score": 0}  
+            ]
+        },
+        {
+            "id": 12,
+            "query": "Different types of volcanoes and their structures",
+            "narrative": "The user wants to understand the various types of volcanic structures. Relevant documents should explain shield volcanoes, stratovolcanoes, cinder cones, and other volcanic landforms. Documents about volcanic rocks without structural explanations should be considered less relevant.",
+            "documents": [
+                {"title": "Shield volcano", "url": "https://en.wikipedia.org/wiki/Shield_volcano", "relevance_score": 4},
+                {"title": "Stratovolcano", "url": "https://en.wikipedia.org/wiki/Stratovolcano", "relevance_score": 4},
+                {"title": "Cinder cone", "url": "https://en.wikipedia.org/wiki/Cinder_cone", "relevance_score": 3},
+                {"title": "Caldera", "url": "https://en.wikipedia.org/wiki/Caldera", "relevance_score": 2},
+                {"title": "Lava dome", "url": "https://en.wikipedia.org/wiki/Lava_dome", "relevance_score": 2},
+                {"title": "Volcanic rock", "url": "https://en.wikipedia.org/wiki/Volcanic_rock", "relevance_score": 1}
+            ]
+        },
+        {
+            "id": 13,
+            "query": "Living near volcanoes: risks and benefits",
+            "narrative": "The user wants to understand the dangers and potential advantages of living in volcanic regions. Relevant documents should cover volcanic hazards, soil fertility benefits, geothermal energy, and risk management. Documents about extinct volcanoes without human impact context should be considered less relevant.",
+            "documents": [
+                {"title": "Volcanic hazards", "url": "https://en.wikipedia.org/wiki/Volcanic_hazards", "relevance_score": 4},
+                {"title": "Geothermal energy", "url": "https://en.wikipedia.org/wiki/Geothermal_energy", "relevance_score": 3},
+                {"title": "Risk management", "url": "https://en.wikipedia.org/wiki/Risk_management", "relevance_score": 2},
+                {"title": "Volcanic tourism", "url": "https://en.wikipedia.org/wiki/Volcanic_tourism", "relevance_score": 2},
+                {"title": "Extinct volcano", "url": "https://en.wikipedia.org/wiki/Extinct_volcano", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 14,
+            "query": "Volcanic island formation",
+            "narrative": "The user wants to understand how volcanic islands form in oceanic settings. Relevant documents should explain oceanic volcanism, island arc formation, and the evolution of volcanic islands. Documents about continental volcanism without island context should be considered less relevant.",
+            "documents": [
+                {"title": "Volcanic island", "url": "https://en.wikipedia.org/wiki/Volcanic_island", "relevance_score": 4},
+                {"title": "Island", "url": "https://en.wikipedia.org/wiki/Island", "relevance_score": 2},
+                {"title": "Island arc", "url": "https://en.wikipedia.org/wiki/Island_arc", "relevance_score": 3},
+                {"title": "Oceanic crust", "url": "https://en.wikipedia.org/wiki/Oceanic_crust", "relevance_score": 2},
+                {"title": "Seamount", "url": "https://en.wikipedia.org/wiki/Seamount", "relevance_score": 3},
+                {"title": "Hawaiian Islands", "url": "https://en.wikipedia.org/wiki/Hawaiian_Islands", "relevance_score": 3},
+                {"title": "Volcanic evolution", "url": "https://en.wikipedia.org/wiki/Volcanic_evolution", "relevance_score": 2},
+                {"title": "Continental volcanism", "url": "https://en.wikipedia.org/wiki/Continental_volcanism", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 15,
+            "query": "Predicting volcanic eruptions",
+            "narrative": "The user wants to learn about methods scientists use to predict volcanic eruptions. Relevant documents should cover monitoring techniques, warning signs, and technologies used in volcanic forecasting. Documents about historical eruptions without prediction methods should be considered less relevant.",
+            "documents": [
+                {"title": "Prediction of volcanic activity", "url": "https://en.wikipedia.org/wiki/Prediction_of_volcanic_activity", "relevance_score": 4},
+                {"title": "Seismology", "url": "https://en.wikipedia.org/wiki/Seismology", "relevance_score": 3},
+                {"title": "Tiltmeter", "url": "https://en.wikipedia.org/wiki/Tiltmeter", "relevance_score": 2},
+                {"title": "Volcanic gas", "url": "https://en.wikipedia.org/wiki/Volcanic_gas", "relevance_score": 2},
+                {"title": "Volcanic Ash Advisory Center", "url": "https://en.wikipedia.org/wiki/Volcanic_Ash_Advisory_Center", "relevance_score": 2},
+                {"title": "Mount St. Helens eruption", "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens", "relevance_score": 1}
+            ]
+        },
+        {
+            "id": 16,
+            "query": "US Presidential Election Process",
+            "narrative": "The user wants to understand how the US presidential election process works. Relevant documents should explain the Electoral College, primaries, caucuses, and general election procedures. Documents about specific presidential elections without process information should be considered less relevant.",
+            "documents": [
+               {"title": "United States presidential election", "url": "https://en.wikipedia.org/wiki/United_States_presidential_election", "relevance_score": 4},
+               {"title": "United States Electoral College", "url": "https://en.wikipedia.org/wiki/Electoral_College_(United_States)", "relevance_score": 4},
+               {"title": "Primary election", "url": "https://en.wikipedia.org/wiki/Primary_election", "relevance_score": 3},
+               {"title": "United States Constitution", "url": "https://en.wikipedia.org/wiki/United_States_Constitution", "relevance_score": 2},
+               {"title": "United States presidential primary", "url": "https://en.wikipedia.org/wiki/United_States_presidential_primary", "relevance_score": 4},
+               {"title": "2020 United States presidential election", "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election", "relevance_score": 3},
+               {"title": "Donald Trump", "url": "https://en.wikipedia.org/wiki/Donald_Trump", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 17,
+            "query": "How does the Electoral College work?",
+            "narrative": "The user wants a detailed explanation of the Electoral College system, including elector selection, voting procedures, and historical rationale. Relevant documents cover Electoral College mechanics, criticisms, and constitutional basis. Documents about popular vote statistics without Electoral College context are irrelevant.",
+            "documents": [
+                {"title": "United States Electoral College", "url": "https://en.wikipedia.org/wiki/United_States_Electoral_College", "relevance_score": 4},
+                {"title": "Faithless elector", "url": "https://en.wikipedia.org/wiki/Faithless_elector", "relevance_score": 2},
+                {"title": "Twelfth Amendment to the United States Constitution", "url": "https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution", "relevance_score": 3},
+                {"title": "United States presidential election", "url": "https://en.wikipedia.org/wiki/United_States_presidential_election", "relevance_score": 2},
+                {"title": "National Popular Vote Interstate Compact", "url": "https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact", "relevance_score": 2},
+                {"title": "2020 United States presidential election", "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election", "relevance_score": 1},
+                {"title": "Donald Trump", "url": "https://en.wikipedia.org/wiki/Donald_Trump", "relevance_score": 0}
+            ]
+        },
+        {
+            "id": 18,
+            "query": "Historical evolution of the US election process",
+            "narrative": "The user seeks to understand how presidential elections have changed since 1789, including amendments and voting rights expansions. Relevant documents cover suffrage movements, constitutional changes, and electoral reforms. Documents about current elections only are less relevant.",
+            "documents": [
+                {"title": "History of the United States Constitution", "url": "https://en.wikipedia.org/wiki/History_of_the_United_States_Constitution", "relevance_score": 4},
+                {"title": "President of the United States", "url": "https://en.wikipedia.org/wiki/President_of_the_United_States", "relevance_score": 3},
+                {"title": "Voting Rights Act of 1965", "url": "https://en.wikipedia.org/wiki/Voting_Rights_Act_of_1965", "relevance_score": 3},
+                {"title": "Electoral College abolition debate", "url": "https://en.wikipedia.org/wiki/Electoral_College_abolition_debate", "relevance_score": 2},
+                {"title": "2020 United States presidential election", "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election", "relevance_score": 1},
+            ]
+        }
+    ]
+}
