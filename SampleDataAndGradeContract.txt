@@ -11,23 +11,61 @@ Narrative:
 4.
 Narrative:
 
-5.
-Narrative:
+5. "Mental health effects of remote work"
 
-6.
-Narrative:
+Narrative: User needs insights on psychological impacts of remote work arrangements.
 
-7.
-Narrative:
+Relevance Judgments:
+Highly relevant: Research on stress, productivity, and well-being of remote workers. 
+Partially relevant: General workplace productivity studies. 
+Not relevant: Studies on physical health unrelated to remote work.
 
-8.
-Narrative:
+6. "What irrigation techniques help farmers adapt to climate change?"
 
-9.
-Narrative:
+Narrative: User wants to learn about climate-resilient irrigation technologies that help farmers cope with shifting rainfall patterns and water scarcity.
 
-10.
-Narrative:
+Relevance Judgments:
+Highly relevant: Studies on advanced irrigation techniques (drip, precision, AI-based systems) and their role in climate adaptation.
+Partially relevant: Research on irrigation without climate change context.
+Not relevant: Water conservation policies not related to agriculture.
+
+
+7. "How does excessive social media use impact adolescent mental health?"
+
+Narrative: User is interested in understanding the psychological effects of social media platforms on teenagers, including issues like anxiety, depression, self-esteem, and cyberbullying.
+
+Relevance Judgments:
+Highly relevant: Studies linking social media usage to mental health outcomes in adolescents.
+Partially relevant: General research on mental health without reference to social media.
+Not relevant: Studies on adult social media usage without mention of adolescence.
+
+8. "Do video games enhance or hinder cognitive development in children?"
+
+Narrative: User seeks to understand whether video games improve skills like problem-solving, memory, and attention or contribute to negative effects like addiction and aggression in children.
+
+Relevance Judgments:
+Highly relevant: Scientific studies on cognitive development in children related to video game exposure.
+Partially relevant: Research on video games and behavior without cognitive focus.
+Not relevant: Studies on gaming industry economics without reference to cognition.
+
+9."How does sleep duration affect students' academic performance?"
+
+Narrative: User seeks to understand the impact of sleep quality, duration, and sleep disorders on cognitive function, learning ability, and exam performance in students.
+
+Relevance Judgments:
+Highly relevant: Research on sleep patterns and academic performance correlations.
+Partially relevant: Studies on sleep and cognitive function without academic focus.
+Not relevant: Research on sleep in adults without student-related analysis.
+
+
+10. "How is 3D printing transforming the medical field?"
+
+Narrative: User wants insights on applications like prosthetics, organ bioprinting, and surgical planning, as well as challenges in regulatory approval.
+
+Relevance Judgments:
+Highly relevant: Case studies on 3D printing in healthcare.
+Partially relevant: 3D printing applications in other industries.
+Not relevant: Discussions on traditional manufacturing without 3D printing.
 
 
 Examples of Summerization Models we will be using for this Project.
