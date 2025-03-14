@@ -60,7 +60,7 @@ FOR A-
 
 FOR A	
 1. Try retrival using QueryLikeliHood models to evaluate retrieval performance on summeries.
-2. Incorporate an additional retrieval model (T5) alongside BM25.
+2. Incorporate an additional T5 summerization model for retrieval alongside BM25.
 3. Optimize hyperparameters for summerizations models to improve retrieval performance.
 4. Conduct a comprehensive evaluation comparing all retrieval models (BART, Pegasus, T5, and LongFormer) to assess their effectiveness.
 5. Deliver an in-depth analysis discussing the strengths, limitations, and ideal use cases for each retrieval approach.
