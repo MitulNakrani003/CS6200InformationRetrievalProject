@@ -41,8 +41,8 @@ LongFormer: https://huggingface.co/docs/transformers/en/model_doc/longformer
 Grade and Milestones
 
 FOR B
-1. Label at least 25 queries with their corresponding relevant documents. 
-2. Collect and preprocess data based on these queries, setting up a data processing pipeline. 
+1. Label a minimum of 25 queries with their corresponding relevant documents. 
+2. Collect and preprocess data based on these queries by fetching data from APIs on the internet, setting up a robust data processing pipeline. 
 3. Implement a transformer-based summarization model (BART) to generate document summaries. 
 4. Apply BM25 as the retrieval model to retrieve documents based on the annotated queries. 
 5. Evaluate retrieval performance using Mean Average Precision (MAP).
@@ -51,6 +51,7 @@ FOR B+
 1. Integrate an additional summarization model (Pegasus) to generate document summaries. 
 2. Perform document retrieval using BM25 on the newly summarized dataset. 
 3. Compare retrieval performance between the original system (full-text retrieval) and the summarization-enhanced system.
+4. Track and compare retrieval performance using evaluation measures like F1-Score, Mean Reciprocal Rank (MRR), Normalized Discounted Cumulative Gain (NDCG) and more.
 
 FOR A-	
 1. Introduce a third summarization model (LongFormer) to analyze different summarization techniques. 
