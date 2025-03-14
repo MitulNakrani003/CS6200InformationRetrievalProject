@@ -39,7 +39,6 @@ Milestones:
 1. Introduce a third summarization model (LongFormer) to analyze different summarization techniques. 
 2. Apply document retrieval using BM25 and compare its performance against retrieval using LongFormer-generated summaries. 
 3. Evaluate retrieval effectiveness by comparing BM25 with different summarization-enhanced retrieval models. 
-4. Fine-tune BM25 hyperparameters to optimize ranking accuracy.
 
 Grade:
 A	
