@@ -1,17 +1,53 @@
 Query Examples:
-1.
-Narrative:
 
-2.
-Narrative:
+1. "Cryptocurrency Security Best Practices"
+            
+Narrative: User wants to understand how to securely store and manage cryptocurrencies. 
 
-3.
-Narrative:
+Relevance Judgments:
+Highly relevant: Research and guidelines on securing crypto wallets, avoiding phishing attacks, and implementing multi-signature authentication.
+Partially relevant: General discussions on blockchain technology without focus on security.
+Not relevant: Cryptocurrency price predictions or investment strategies without security considerations.
 
-4.
-Narrative:
+2. "How to build a diversified investment portfolio?"
 
-5. "Mental health effects of remote work"
+Narrative: User wants to understand how to allocate investments across different asset classes (stocks, bonds, real estate, commodities, etc.) to minimize risk and maximize returns. They are interested in portfolio balancing techniques, risk management strategies, and long-term investment planning.
+
+Relevance Judgments:
+Highly relevant: Research and expert advice on diversification strategies, asset allocation models, and risk assessment techniques.
+Partially relevant: General investment advice without a focus on diversification.
+Not relevant: Discussions on specific stock picks or short-term trading strategies.
+
+3. "Living near volcanoes: risks and benefits"
+
+Narrative: User wants to understand both the dangers and advantages of residing in volcanic regions. They are interested in risks such as eruptions, ashfall, and earthquakes, as well as benefits like fertile soil, geothermal energy, and tourism opportunities.
+
+Relevance Judgments:
+Highly relevant: Studies and articles discussing volcanic hazards, disaster preparedness, economic advantages, and environmental impacts of living near volcanoes.
+Partially relevant: General discussions on volcano formation and activity without focus on human habitation.
+Not relevant: Information on volcanoes located in uninhabited areas or purely historical volcanic events without modern implications.
+
+4. "Historical evolution of the US election process"
+
+Narrative: The user seeks to understand the historical development of the U.S. election system, including changes in voting rights, the establishment and modifications of the Electoral College, and the transition from state legislature-appointed electors to popular voting methods.
+
+Relevance Judgments:
+
+Highly relevant: Articles detailing the progression of voting rights (e.g., expansion to non-landowners, women, minorities), the origins and reforms of the Electoral College, and shifts from legislative appointments to popular elections for electors.
+Partially relevant: General overviews of U.S. political history without specific focus on electoral processes.
+Not relevant: Discussions on unrelated political systems or non-electoral aspects of U.S. history.
+
+5. "How does meditation impact students' academic performance?"
+
+Narrative: The user wants to understand how meditation influences students' cognitive abilities, concentration, stress levels, and overall academic success. They are interested in scientific studies, mindfulness techniques, and real-world applications in educational settings.
+
+Relevance Judgments:
+
+Highly relevant: Research on meditation’s effects on memory, focus, stress reduction, and academic performance; studies on mindfulness programs in schools.
+Partially relevant: General benefits of meditation without focus on students or education.
+Not relevant: Spiritual or religious discussions on meditation without academic or cognitive relevance.
+
+6. "Mental health effects of remote work"
 
 Narrative: User needs insights on psychological impacts of remote work arrangements.
 
@@ -19,15 +55,6 @@ Relevance Judgments:
 Highly relevant: Research on stress, productivity, and well-being of remote workers. 
 Partially relevant: General workplace productivity studies. 
 Not relevant: Studies on physical health unrelated to remote work.
-
-6. "What irrigation techniques help farmers adapt to climate change?"
-
-Narrative: User wants to learn about climate-resilient irrigation technologies that help farmers cope with shifting rainfall patterns and water scarcity.
-
-Relevance Judgments:
-Highly relevant: Studies on advanced irrigation techniques (drip, precision, AI-based systems) and their role in climate adaptation.
-Partially relevant: Research on irrigation without climate change context.
-Not relevant: Water conservation policies not related to agriculture.
 
 
 7. "How does excessive social media use impact adolescent mental health?"
@@ -79,8 +106,8 @@ LongFormer: https://huggingface.co/docs/transformers/en/model_doc/longformer
 Grade and Milestones
 
 FOR B
-1. Label a minimum of 25 queries with their corresponding relevant documents. 
-2. Collect and preprocess data based on these queries by fetching data from APIs on the internet, setting up a robust data processing pipeline. 
+1. Label at least 25 queries with their corresponding relevant documents. 
+2. Collect and preprocess data based on these queries, setting up a data processing pipeline. 
 3. Implement a transformer-based summarization model (BART) to generate document summaries. 
 4. Apply BM25 as the retrieval model to retrieve documents based on the annotated queries. 
 5. Evaluate retrieval performance using Mean Average Precision (MAP).
@@ -89,7 +116,6 @@ FOR B+
 1. Integrate an additional summarization model (Pegasus) to generate document summaries. 
 2. Perform document retrieval using BM25 on the newly summarized dataset. 
 3. Compare retrieval performance between the original system (full-text retrieval) and the summarization-enhanced system.
-4. Track and compare retrieval performance using evaluation measures like F1-Score, Mean Reciprocal Rank (MRR), Normalized Discounted Cumulative Gain (NDCG) and more.
 
 FOR A-	
 1. Introduce a third summarization model (LongFormer) to analyze different summarization techniques. 
@@ -99,7 +125,7 @@ FOR A-
 
 FOR A	
 1. Try retrival using QueryLikeliHood models to evaluate retrieval performance on summeries.
-2. Incorporate an additional T5 summerization model for retrieval alongside BM25.
+2. Incorporate an additional retrieval model (T5) alongside BM25.
 3. Optimize hyperparameters for summerizations models to improve retrieval performance.
 4. Conduct a comprehensive evaluation comparing all retrieval models (BART, Pegasus, T5, and LongFormer) to assess their effectiveness.
 5. Deliver an in-depth analysis discussing the strengths, limitations, and ideal use cases for each retrieval approach.
