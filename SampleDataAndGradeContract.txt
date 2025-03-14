@@ -1,0 +1,66 @@
+Query Examples:
+1.
+Narrative:
+
+2.
+Narrative:
+
+3.
+Narrative:
+
+4.
+Narrative:
+
+5.
+Narrative:
+
+6.
+Narrative:
+
+7.
+Narrative:
+
+8.
+Narrative:
+
+9.
+Narrative:
+
+10.
+Narrative:
+
+
+Examples of Summerization Models we will be using for this Project.
+
+Pegasus: https://huggingface.co/docs/transformers/en/model_doc/pegasus
+Bart: https://huggingface.co/transformers/v2.11.0/model_doc/bart.html
+T5: https://huggingface.co/docs/transformers/en/model_doc/t5
+LongFormer: https://huggingface.co/docs/transformers/en/model_doc/longformer
+
+
+Grade and Milestones
+
+FOR B
+1. Label at least 25 queries with their corresponding relevant documents. 
+2. Collect and preprocess data based on these queries, setting up a data processing pipeline. 
+3. Implement a transformer-based summarization model (BART) to generate document summaries. 
+4. Apply BM25 as the retrieval model to retrieve documents based on the annotated queries. 
+5. Evaluate retrieval performance using Mean Average Precision (MAP).
+
+FOR B+	
+1. Integrate an additional summarization model (Pegasus) to generate document summaries. 
+2. Perform document retrieval using BM25 on the newly summarized dataset. 
+3. Compare retrieval performance between the original system (full-text retrieval) and the summarization-enhanced system.
+
+FOR A-	
+1. Introduce a third summarization model (LongFormer) to analyze different summarization techniques. 
+2. Apply document retrieval using BM25 and compare its performance against retrieval using LongFormer-generated summaries. 
+3. Evaluate retrieval effectiveness by comparing BM25 with different summarization-enhanced retrieval models. 
+4. Fine-tune BM25 hyperparameters to optimize ranking accuracy.
+
+FOR A	
+1. Try retrival using QueryLikeliHood models to evaluate retrieval performance on summeries.
+2. Incorporate an additional retrieval model (T5) alongside BM25.
+3. Optimize hyperparameters for summerizations models to improve retrieval performance.
+4. Conduct a comprehensive evaluation comparing all retrieval models (BART, Pegasus, T5, and LongFormer) to assess their effectiveness.
+5. Deliver an in-depth analysis discussing the strengths, limitations, and ideal use cases for each retrieval approach.
