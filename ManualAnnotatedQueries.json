@@ -434,6 +434,320 @@
                 {"title": "Energy policy of the European Union", "url": "https://en.wikipedia.org/wiki/Energy_policy_of_the_European_Union", "relevance_score": 2},
                 {"title": "Coal", "url": "https://en.wikipedia.org/wiki/Coal", "relevance_score": 0}
             ]
+        },
+        {
+            "topic": 6,
+            "topic_name": "Renewable Energy",
+            "id": 29,
+            "query": "Environmental impact of renewable energy",
+            "narrative": "The user wants to understand the ecological effects of renewable energy sources. Relevant documents should cover land use, wildlife impacts, and lifecycle assessments. Documents about fossil fuel impacts without renewable context are less relevant.",
+            "documents": [
+                {"title": "Environmental impact of renewable energy", "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_renewable_energy", "relevance_score": 4},
+                {"title": "Life cycle assessment", "url": "https://en.wikipedia.org/wiki/Life_cycle_assessment", "relevance_score": 3},
+                {"title": "Wind turbine", "url": "https://en.wikipedia.org/wiki/Wind_turbine", "relevance_score": 2},
+                {"title": "Solar power", "url": "https://en.wikipedia.org/wiki/Solar_power", "relevance_score": 2},
+                {"title": "Hydropower", "url": "https://en.wikipedia.org/wiki/Hydropower", "relevance_score": 2},
+                {"title": "Fossil fuel", "url": "https://en.wikipedia.org/wiki/Fossil_fuel", "relevance_score": 0}
+            ]
+        },
+        {
+            "topic": 6,
+            "topic_name": "Renewable Energy",
+            "id": 30,
+            "query": "Future trends in renewable energy technology",
+            "narrative": "The user seeks information on emerging technologies like solar panels, wind turbines, and biofuels. Relevant documents should cover innovations, research, and future projections. Documents about outdated technologies without future context are less relevant.",
+            "documents": [
+                {"title": "Solar power", "url": "https://en.wikipedia.org/wiki/Solar_power", "relevance_score": 4},
+                {"title": "Wind power", "url": "https://en.wikipedia.org/wiki/Wind_power", "relevance_score": 4},
+                {"title": "Biofuel", "url": "https://en.wikipedia.org/wiki/Biofuel", "relevance_score": 3},
+                {"title": "Geothermal energy", "url": "https://en.wikipedia.org/wiki/Geothermal_energy", "relevance_score": 2},
+                {"title": "Energy transition", "url": "https://en.wikipedia.org/wiki/Energy_transition", "relevance_score": 3},
+                {"title": "Nuclear fusion", "url": "https://en.wikipedia.org/wiki/Nuclear_fusion", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 7,
+            "topic_name": "Adverse Effect of Social Media",
+            "id": 31,
+            "query": "How does excessive social media use impact adolescent mental health?",
+            "narrative": "User is interested in understanding the psychological effects of social media platforms on teenagers, including issues like anxiety, depression, self-esteem, and cyberbullying.",
+            "documents": [
+                {"title": "Social media and mental health", "url": "https://en.wikipedia.org/wiki/Social_media_and_mental_health", "relevance_score": 4},
+                {"title": "Cyberbullying", "url": "https://en.wikipedia.org/wiki/Cyberbullying", "relevance_score": 4},
+                {"title": "Anxiety disorder", "url": "https://en.wikipedia.org/wiki/Anxiety_disorder", "relevance_score": 2},
+                {"title": "Depression (mood)", "url": "https://en.wikipedia.org/wiki/Depression_(mood)", "relevance_score": 2},
+                {"title": "Self-esteem", "url": "https://en.wikipedia.org/wiki/Self-esteem", "relevance_score": 2},
+                {"title": "Social media marketing", "url": "https://en.wikipedia.org/wiki/Social_media_marketing", "relevance_score": 0}
+            ]
+        },
+        {
+            "topic": 7,
+            "topic_name": "Adverse Effect of Social Media",
+            "id": 32,
+            "query": "Social media addiction and its effects",
+            "narrative": "User is looking for information on the addictive nature of social media platforms and its consequences on daily life, productivity, and relationships.",
+            "documents": [
+                {"title": "Internet addiction disorder", "url": "https://en.wikipedia.org/wiki/Internet_addiction_disorder", "relevance_score": 4},
+                {"title": "Social media addiction", "url": "https://en.wikipedia.org/wiki/Social_media_addiction", "relevance_score": 4},
+                {"title": "Digital detox", "url": "https://en.wikipedia.org/wiki/Digital_detox", "relevance_score": 3},
+                {"title": "Productivity", "url": "https://en.wikipedia.org/wiki/Productivity", "relevance_score": 2},
+                {"title": "Social media influencer", "url": "https://en.wikipedia.org/wiki/Social_media_influencer", "relevance_score": 0}
+            ]
+        },
+        {
+            "topic": 7,
+            "topic_name": "Adverse Effect of Social Media",
+            "id": 33,
+            "query": "Impact of social media on body image",
+            "narrative": "User wants to understand how social media influences perceptions of body image, including issues like eating disorders, self-esteem, and societal standards.",
+            "documents": [
+                {"title": "Body image", "url": "https://en.wikipedia.org/wiki/Body_image", "relevance_score": 4},
+                {"title": "Eating disorder", "url": "https://en.wikipedia.org/wiki/Eating_disorder", "relevance_score": 4},
+                {"title": "Self-esteem", "url": "https://en.wikipedia.org/wiki/Self-esteem", "relevance_score": 3},
+                {"title": "Social comparison theory", "url": "https://en.wikipedia.org/wiki/Social_comparison_theory", "relevance_score": 3},
+                {"title": "Influencer marketing", "url": "https://en.wikipedia.org/wiki/Influencer_marketing", "relevance_score": 0}
+            ]
+        },
+        {
+            "topic": 7,
+            "topic_name": "Adverse Effect of Social Media",
+            "id": 34,
+            "query": "Social media and misinformation",
+            "narrative": "User is interested in understanding how social media platforms contribute to the spread of misinformation and its societal implications.",
+            "documents": [
+                {"title": "Misinformation", "url": "https://en.wikipedia.org/wiki/Misinformation", "relevance_score": 4},
+                {"title": "Fake news", "url": "https://en.wikipedia.org/wiki/Fake_news", "relevance_score": 4},
+                {"title": "Disinformation", "url": "https://en.wikipedia.org/wiki/Disinformation", "relevance_score": 3},
+                {"title": "Social media", "url": "https://en.wikipedia.org/wiki/Social_media", "relevance_score": 2},
+                {"title": "Fact-checking", "url": "https://en.wikipedia.org/wiki/Fact-checking", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 7,
+            "topic_name": "Adverse Effect of Social Media",
+            "id": 35,
+            "query": "Social media's role in political polarization",
+            "narrative": "User wants to explore how social media contributes to political polarization and echo chambers, including its effects on public discourse and democracy.",
+            "documents": [
+                {"title": "Political polarization", "url": "https://en.wikipedia.org/wiki/Political_polarization", "relevance_score": 4},
+                {"title": "Echo chamber (media)", "url": "https://en.wikipedia.org/wiki/Echo_chamber_(media)", "relevance_score": 4},
+                {"title": "Social media and politics", "url": "https://en.wikipedia.org/wiki/Social_media_and_politics", "relevance_score": 3},
+                {"title": "Public discourse", "url": "https://en.wikipedia.org/wiki/Public_discourse", "relevance_score": 2},
+                {"title": "Democracy", "url": "https://en.wikipedia.org/wiki/Democracy", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 8,
+            "topic_name": "Cognitive Development",
+            "id": 36,
+            "query": "Do video games enhance or hinder cognitive development in children?",
+            "narrative": "User seeks to understand whether video games improve skills like problem-solving, memory, and attention or contribute to negative effects like addiction and aggression in children.",
+            "documents": [
+                {"title": "Video game", "url": "https://en.wikipedia.org/wiki/Video_game", "relevance_score": 4},
+                {"title": "Cognitive development", "url": "https://en.wikipedia.org/wiki/Cognitive_development", "relevance_score": 4},
+                {"title": "Child development", "url": "https://en.wikipedia.org/wiki/Child_development", "relevance_score": 3},
+                {"title": "Aggression", "url": "https://en.wikipedia.org/wiki/Aggression", "relevance_score": 2},
+                {"title": "Attention span", "url": "https://en.wikipedia.org/wiki/Attention_span", "relevance_score": 2},
+                {"title": "Addiction", "url": "https://en.wikipedia.org/wiki/Addiction", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 8,
+            "topic_name": "Cognitive Development",
+            "id": 37,
+            "query": "How does bilingualism affect cognitive skills?",
+            "narrative": "User is interested in understanding the cognitive advantages or disadvantages of being bilingual, including effects on memory, attention, and problem-solving.",
+            "documents": [
+                {"title": "Bilingualism", "url": "https://en.wikipedia.org/wiki/Bilingualism", "relevance_score": 4},
+                {"title": "Cognitive skills", "url": "https://en.wikipedia.org/wiki/Cognitive_skills", "relevance_score": 4},
+                {"title": "Memory", "url": "https://en.wikipedia.org/wiki/Memory", "relevance_score": 3},
+                {"title": "Attention (psychology)", "url": "https://en.wikipedia.org/wiki/Attention_(psychology)", "relevance_score": 2},
+                {"title": "Problem solving", "url": "https://en.wikipedia.org/wiki/Problem_solving", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 8,
+            "topic_name": "Cognitive Development",
+            "id": 38,
+            "query": "The impact of early childhood education on cognitive development",
+            "narrative": "User seeks to understand how early childhood education programs influence cognitive skills, including language, math, and social skills.",
+            "documents": [
+                {"title": "Early childhood education", "url": "https://en.wikipedia.org/wiki/Early_childhood_education", "relevance_score": 4},
+                {"title": "Cognitive development", "url": "https://en.wikipedia.org/wiki/Cognitive_development", "relevance_score": 4},
+                {"title": "Language development", "url": "https://en.wikipedia.org/wiki/Language_development", "relevance_score": 3},
+                {"title": "Mathematics education", "url": "https://en.wikipedia.org/wiki/Mathematics_education", "relevance_score": 2},
+                {"title": "Social skills", "url": "https://en.wikipedia.org/wiki/Social_skills", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 8,
+            "topic_name": "Cognitive Development",
+            "id": 39,
+            "query": "The role of nutrition in cognitive development",
+            "narrative": "User is interested in understanding how nutrition affects cognitive skills, including memory, attention, and learning abilities.",
+            "documents": [
+                {"title": "Nutrition", "url": "https://en.wikipedia.org/wiki/Nutrition", "relevance_score": 4},
+                {"title": "Cognitive development", "url": "https://en.wikipedia.org/wiki/Cognitive_development", "relevance_score": 4},
+                {"title": "Memory", "url": "https://en.wikipedia.org/wiki/Memory", "relevance_score": 3},
+                {"title": "Attention (psychology)", "url": "https://en.wikipedia.org/wiki/Attention_(psychology)", "relevance_score": 2},
+                {"title": "Learning", "url": "https://en.wikipedia.org/wiki/Learning", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 8,
+            "topic_name": "Cognitive Development",
+            "id": 40,
+            "query": "The effects of screen time on cognitive development in children",
+            "narrative": "User seeks to understand how screen time affects cognitive skills, including attention, memory, and learning abilities.",
+            "documents": [
+                {"title": "Screen time", "url": "https://en.wikipedia.org/wiki/Screen_time", "relevance_score": 4},
+                {"title": "Cognitive development", "url": "https://en.wikipedia.org/wiki/Cognitive_development", "relevance_score": 4},
+                {"title": "Attention (psychology)", "url": "https://en.wikipedia.org/wiki/Attention_(psychology)", "relevance_score": 3},
+                {"title": "Memory", "url": "https://en.wikipedia.org/wiki/Memory", "relevance_score": 2},
+                {"title": "Learning", "url": "https://en.wikipedia.org/wiki/Learning", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 9,
+            "topic_name": "Importance of Sleep",
+            "id": 41,
+            "query": "How does sleep duration affect students' academic performance?",
+            "narrative": "User seeks to understand the impact of sleep quality, duration, and sleep disorders on cognitive function, learning ability, and exam performance in students.",
+            "documents": [
+                {"title": "Sleep and academic performance", "url": "https://en.wikipedia.org/wiki/Sleep_and_academic_performance", "relevance_score": 4},
+                {"title": "Sleep deprivation", "url": "https://en.wikipedia.org/wiki/Sleep_deprivation", "relevance_score": 4},
+                {"title": "Cognitive function", "url": "https://en.wikipedia.org/wiki/Cognitive_function", "relevance_score": 3},
+                {"title": "Learning", "url": "https://en.wikipedia.org/wiki/Learning", "relevance_score": 2},
+                {"title": "Attention (psychology)", "url": "https://en.wikipedia.org/wiki/Attention_(psychology)", "relevance_score": 2},
+                {"title": "Sleep disorder", "url": "https://en.wikipedia.org/wiki/Sleep_disorder", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 9,
+            "topic_name": "Importance of Sleep",
+            "id": 42,
+            "query": "The relationship between sleep and mental health",
+            "narrative": "User is interested in understanding how sleep quality and disorders affect mental health conditions like anxiety, depression, and stress.",
+            "documents": [
+                {"title": "Sleep and mental health", "url": "https://en.wikipedia.org/wiki/Sleep_and_mental_health", "relevance_score": 4},
+                {"title": "Anxiety disorder", "url": "https://en.wikipedia.org/wiki/Anxiety_disorder", "relevance_score": 3},
+                {"title": "Depression (mood)", "url": "https://en.wikipedia.org/wiki/Depression_(mood)", "relevance_score": 3},
+                {"title": "Stress (biology)", "url": "https://en.wikipedia.org/wiki/Stress_(biology)", "relevance_score": 2},
+                {"title": "Sleep disorder", "url": "https://en.wikipedia.org/wiki/Sleep_disorder", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 9,
+            "topic_name": "Importance of Sleep",
+            "id": 43,
+            "query": "How does sleep affect physical health?",
+            "narrative": "User seeks to understand the impact of sleep on physical health, including its role in immune function, metabolism, and chronic diseases.",
+            "documents": [
+                {"title": "Sleep and health", "url": "https://en.wikipedia.org/wiki/Sleep_and_health", "relevance_score": 4},
+                {"title": "Immune system", "url": "https://en.wikipedia.org/wiki/Immune_system", "relevance_score": 3},
+                {"title": "Metabolism", "url": "https://en.wikipedia.org/wiki/Metabolism", "relevance_score": 3},
+                {"title": "Chronic disease", "url": "https://en.wikipedia.org/wiki/Chronic_disease", "relevance_score": 2},
+                {"title": "Obesity", "url": "https://en.wikipedia.org/wiki/Obesity", "relevance_score": 2},
+                {"title": "Diabetes mellitus", "url": "https://en.wikipedia.org/wiki/Diabetes_mellitus", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 9,
+            "topic_name": "Importance of Sleep",
+            "id": 44,
+            "query": "The effects of sleep disorders on daily life",
+            "narrative": "User is interested in understanding how sleep disorders like insomnia and sleep apnea affect daily functioning, mood, and overall quality of life.",
+            "documents": [
+                {"title": "Sleep disorder", "url": "https://en.wikipedia.org/wiki/Sleep_disorder", "relevance_score": 4},
+                {"title": "Insomnia", "url": "https://en.wikipedia.org/wiki/Insomnia", "relevance_score": 4},
+                {"title": "Sleep apnea", "url": "https://en.wikipedia.org/wiki/Sleep_apnea", "relevance_score": 3},
+                {"title": "Quality of life", "url": "https://en.wikipedia.org/wiki/Quality_of_life", "relevance_score": 2},
+                {"title": "Mood disorder", "url": "https://en.wikipedia.org/wiki/Mood_disorder", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 9,
+            "topic_name": "Importance of Sleep",
+            "id": 45,
+            "query": "Sleep hygiene practices for better sleep quality",
+            "narrative": "User seeks to learn about effective sleep hygiene practices that can improve sleep quality and duration.",
+            "documents": [
+                {"title": "Sleep hygiene", "url": "https://en.wikipedia.org/wiki/Sleep_hygiene", "relevance_score": 4},
+                {"title": "Circadian rhythm", "url": "https://en.wikipedia.org/wiki/Circadian_rhythm", "relevance_score": 3},
+                {"title": "Sleep deprivation", "url": "https://en.wikipedia.org/wiki/Sleep_deprivation", "relevance_score": 2},
+                {"title": "Sleep disorder", "url": "https://en.wikipedia.org/wiki/Sleep_disorder", "relevance_score": 2},
+                {"title": "Sleep study", "url": "https://en.wikipedia.org/wiki/Sleep_study", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 10,
+            "topic_name": "3D Printing",
+            "id": 46,
+            "query": "How is 3D printing transforming the medical field?",
+            "narrative": "User wants insights on applications like prosthetics, organ bioprinting, and surgical planning, as well as challenges in regulatory approval.",
+            "documents": [
+                {"title": "3D printing in medicine", "url": "https://en.wikipedia.org/wiki/3D_printing_in_medicine", "relevance_score": 4},
+                {"title": "Bioprinting", "url": "https://en.wikipedia.org/wiki/Bioprinting", "relevance_score": 4},
+                {"title": "Prosthesis", "url": "https://en.wikipedia.org/wiki/Prosthesis", "relevance_score": 3},
+                {"title": "Surgical planning", "url": "https://en.wikipedia.org/wiki/Surgical_planning", "relevance_score": 2},
+                {"title": "Regulatory approval", "url": "https://en.wikipedia.org/wiki/Regulatory_approval", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 10,
+            "topic_name": "3D Printing",
+            "id": 47,
+            "query": "What are the environmental impacts of 3D printing?",
+            "narrative": "User seeks to understand the sustainability aspects of 3D printing, including material waste, energy consumption, and recycling potential.",
+            "documents": [
+                {"title": "Environmental impact of 3D printing", "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_3D_printing", "relevance_score": 4},
+                {"title": "Sustainability", "url": "https://en.wikipedia.org/wiki/Sustainability", "relevance_score": 3},
+                {"title": "Material recycling", "url": "https://en.wikipedia.org/wiki/Material_recycling", "relevance_score": 2},
+                {"title": "Energy consumption in manufacturing", "url": "https://en.wikipedia.org/wiki/Energy_consumption_in_manufacturing", "relevance_score": 2},
+                {"title": "Waste management", "url": "https://en.wikipedia.org/wiki/Waste_management", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 10,
+            "topic_name": "3D Printing",
+            "id": 48,
+            "query": "3D printing in aerospace and automotive industries",
+            "narrative": "User is interested in how 3D printing is used for prototyping, lightweight components, and supply chain optimization in aerospace and automotive sectors.",
+            "documents": [
+                {"title": "3D printing in aerospace", "url": "https://en.wikipedia.org/wiki/3D_printing_in_aerospace", "relevance_score": 4},
+                {"title": "3D printing in automotive", "url": "https://en.wikipedia.org/wiki/3D_printing_in_automotive", "relevance_score": 4},
+                {"title": "Prototyping", "url": "https://en.wikipedia.org/wiki/Prototyping", "relevance_score": 3},
+                {"title": "Supply chain management", "url": "https://en.wikipedia.org/wiki/Supply_chain_management", "relevance_score": 2},
+                {"title": "Lightweight construction", "url": "https://en.wikipedia.org/wiki/Lightweight_construction", "relevance_score": 2}
+            ]
+        },
+        {
+            "topic": 10,
+            "topic_name": "3D Printing",
+            "id": 49,
+            "query": "3D printing in education and research",
+            "narrative": "User seeks to understand how 3D printing is used in educational settings for teaching and research purposes.",
+            "documents": [
+                {"title": "3D printing in education", "url": "https://en.wikipedia.org/wiki/3D_printing_in_education", "relevance_score": 4},
+                {"title": "Educational technology", "url": "https://en.wikipedia.org/wiki/Educational_technology", "relevance_score": 3},
+                {"title": "Research and development", "url": "https://en.wikipedia.org/wiki/Research_and_development", "relevance_score": 2},
+                {"title": "STEM education", "url": "https://en.wikipedia.org/wiki/STEM_education", "relevance_score": 2},
+                {"title": "Hands-on learning", "url": "https://en.wikipedia.org/wiki/Hands-on_learning", "relevance_score": 1}
+            ]
+        },
+        {
+            "topic": 10,
+            "topic_name": "3D Printing",
+            "id": 50,
+            "query": "The future of 3D printing technology",
+            "narrative": "User is interested in emerging trends, innovations, and potential future applications of 3D printing technology.",
+            "documents": [
+                {"title": "Future of 3D printing", "url": "https://en.wikipedia.org/wiki/Future_of_3D_printing", "relevance_score": 4},
+                {"title": "Additive manufacturing", "url": "https://en.wikipedia.org/wiki/Additive_manufacturing", "relevance_score": 3},
+                {"title": "Emerging technologies", "url": "https://en.wikipedia.org/wiki/Emerging_technologies", "relevance_score": 2},
+                {"title": "Innovation", "url": "https://en.wikipedia.org/wiki/Innovation", "relevance_score": 2},
+                {"title": "Industry 4.0", "url": "https://en.wikipedia.org/wiki/Industry_4.0", "relevance_score": 1}
+            ]
         }
     ]
 }
