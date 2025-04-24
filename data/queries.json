@@ -1,0 +1,254 @@
+{
+  "queries": [
+    {
+      "query_id": 1,
+      "query": "Cryptocurrency basics",
+      "narrative": "The user wants to understand the fundamental concepts of cryptocurrencies, including how they work, major types, and their role in financial systems. Relevant documents should cover blockchain technology, digital currency mechanics, and important cryptocurrency examples. Documents about traditional banking without cryptocurrency focus should be considered irrelevant."
+    },
+    {
+      "query_id": 2,
+      "query": "Blockchain technology explained",
+      "narrative": "The user wants to understand blockchain's structure, decentralization, and use cases beyond cryptocurrencies. Relevant documents cover consensus mechanisms, distributed ledgers, and industry applications. Documents focusing only on trading are irrelevant."
+    },
+    {
+      "query_id": 3,
+      "query": "Cryptocurrency Security Best Practices",
+      "narrative": "The user wants to understand how to securely store and manage cryptocurrencies. Relevant documents should cover wallet types, security measures, and common risks. Documents about cryptocurrency price speculation without security focus should be considered irrelevant."
+    },
+    {
+      "query_id": 4,
+      "query": "What is Cryptocurrency Mining?",
+      "narrative": "The user wants to understand how cryptocurrency mining works, including the technical processes, equipment needed, and environmental impacts. Relevant documents should cover mining algorithms, hardware, and energy considerations. Documents about cryptocurrency investment without mining focus should be considered irrelevant."
+    },
+    {
+      "query_id": 5,
+      "query": "Stablecoins and Their Role in Crypto",
+      "narrative": "The user wants to understand what stablecoins are, their types, and their importance in the cryptocurrency ecosystem. Relevant documents should cover different stablecoin mechanisms, use cases, and regulatory considerations. Documents about volatile cryptocurrencies without stablecoin focus should be considered irrelevant."
+    },
+    {
+      "query_id": 6,
+      "query": "Investment strategies for beginners",
+      "narrative": "The user is seeking basic information about getting started with investing, including fundamental concepts, entry-level investment options, and risk management approaches. Relevant documents should cover investment basics, starter portfolios, and simple explanations of investment vehicles suitable for novices. Documents about complex advanced trading strategies should be considered less relevant."
+    },
+    {
+      "query_id": 7,
+      "query": "Real estate investment basics",
+      "narrative": "The user wants to understand the fundamentals of investing in real estate. Relevant documents should cover different real estate investment approaches, property types, REITs, and how real estate fits into an investment portfolio. Documents about stock market investing without real estate context should be considered less relevant."
+    },
+    {
+      "query_id": 8,
+      "query": "How to build a diversified investment portfolio",
+      "narrative": "The user wants to understand the principles of portfolio diversification and how to construct a well-diversified investment portfolio. Relevant documents should cover asset allocation, diversification strategies, and correlation concepts. Documents about specific individual stocks without diversification context should be considered less relevant."
+    },
+    {
+      "query_id": 9,
+      "query": "Passive vs Active investing comparison",
+      "narrative": "The user wants to understand the differences between passive and active investing approaches. Relevant documents should cover passive and active investment strategies, performance comparisons, fee differences, and considerations for choosing between them. Documents about specific stocks without contextual comparison of approaches should be considered less relevant."
+    },
+    {
+      "query_id": 10,
+      "query": "Best Retirement investment planning",
+      "narrative": "The user is looking for information about investment strategies specifically for retirement planning. Relevant documents should cover retirement accounts, long-term investment approaches, and retirement-specific financial planning. Documents about short-term trading strategies should be considered less relevant."
+    },
+    {
+      "query_id": 11,
+      "query": "How do volcanoes form?",
+      "narrative": "The user wants to understand the scientific process of volcano formation. Relevant documents should explain tectonic plate activity, magma chambers, and different types of volcanic formations. Documents that merely list famous volcanoes without explaining the formation process should be considered less relevant."
+    },
+    {
+      "query_id": 12,
+      "query": "Different types of volcanoes and their structures",
+      "narrative": "The user wants to understand the various types of volcanic structures. Relevant documents should explain shield volcanoes, stratovolcanoes, cinder cones, and other volcanic landforms. Documents about volcanic rocks without structural explanations should be considered less relevant."
+    },
+    {
+      "query_id": 13,
+      "query": "Living near volcanoes: risks and benefits",
+      "narrative": "The user wants to understand the dangers and potential advantages of living in volcanic regions. Relevant documents should cover volcanic hazards, soil fertility benefits, geothermal energy, and risk management. Documents about extinct volcanoes without human impact context should be considered less relevant."
+    },
+    {
+      "query_id": 14,
+      "query": "Volcanic island formation",
+      "narrative": "The user wants to understand how volcanic islands form in oceanic settings. Relevant documents should explain oceanic volcanism, island arc formation, and the evolution of volcanic islands. Documents about continental volcanism without island context should be considered less relevant."
+    },
+    {
+      "query_id": 15,
+      "query": "Predicting volcanic eruptions",
+      "narrative": "The user wants to learn about methods scientists use to predict volcanic eruptions. Relevant documents should cover monitoring techniques, warning signs, and technologies used in volcanic forecasting. Documents about historical eruptions without prediction methods should be considered less relevant."
+    },
+    {
+      "query_id": 16,
+      "query": "US Presidential Election Process",
+      "narrative": "The user wants to understand how the US presidential election process works. Relevant documents should explain the Electoral College, primaries, caucuses, and general election procedures. Documents about specific presidential elections without process information should be considered less relevant."
+    },
+    {
+      "query_id": 17,
+      "query": "How does the Electoral College work?",
+      "narrative": "The user wants a detailed explanation of the Electoral College system, including elector selection, voting procedures, and historical rationale. Relevant documents cover Electoral College mechanics, criticisms, and constitutional basis. Documents about popular vote statistics without Electoral College context are irrelevant."
+    },
+    {
+      "query_id": 18,
+      "query": "Historical evolution of the US election process",
+      "narrative": "The user seeks to understand how presidential elections have changed since 1789, including amendments and voting rights expansions. Relevant documents cover suffrage movements, constitutional changes, and electoral reforms. Documents about current elections only are less relevant."
+    },
+    {
+      "query_id": 19,
+      "query": "How are electoral votes distributed by state?",
+      "narrative": "The user seeks to understand the distribution mechanism of electoral votes across U.S. states. Relevant documents explain how the number of electoral votes per state is determined based on congressional representation, and may include historical context, population influence, and discussions about fairness or reform. Documents solely about state election results are less relevant."
+    },
+    {
+      "query_id": 20,
+      "query": "What is the difference between primaries and caucuses in the U.S.?",
+      "narrative": "The user wants to understand the differences between primaries and caucuses in the U.S. election process. Relevant documents should explain the mechanics, types, and significance of each method in selecting party nominees. Documents about general election processes without primary or caucus context should be considered less relevant."
+    },
+    {
+      "query_id": 21,
+      "query": "Benefits of meditation",
+      "narrative": "The user wants to learn about the potential benefits of regular meditation practice. Relevant documents should cover physical, mental, and emotional benefits of meditation, scientific research on meditation effects, and different meditation techniques. Documents focusing only on spiritual or religious aspects without discussing benefits should be considered less relevant."
+    },
+    {
+      "query_id": 22,
+      "query": "Meditation techniques for stress reduction",
+      "narrative": "The user seeks effective meditation methods to alleviate stress. Relevant documents cover mindfulness, breathing exercises, and body scan techniques. Documents about non-stress-related meditation practices are less relevant."
+    },
+    {
+      "query_id": 23,
+      "query": "Meditation for students and academic performance",
+      "narrative": "The user seeks evidence on how meditation improves focus, grades, or cognitive skills in students. Relevant documents cover educational studies and school programs. General education topics are less relevant."
+    },
+    {
+      "query_id": 24,
+      "query": "Cultural origins of meditation practices",
+      "narrative": "The user wants historical context without spiritual focus, covering practices across civilizations. Relevant documents cover ancient India, China, and secular adaptations. Religious doctrines are less relevant."
+    },
+    {
+      "query_id": 25,
+      "query": "What are the scientifically proven benefits of meditation?",
+      "narrative": "The user seeks peer-reviewed or widely accepted scientific findings on the physical and psychological benefits of meditation. Relevant documents include neuroscience studies, clinical trials, or summaries of physiological effects. Documents that focus only on anecdotal or spiritual claims are less relevant."
+    },
+    {
+      "query_id": 26,
+      "query": "Renewable energy sources overview",
+      "narrative": "Relevant documents should contain information about various renewable energy sources. Documents that do not mention any renewable energy sources like solar, wind, hydroelectric, geothermal, or biomass energy should be considered irrelevant."
+    },
+    {
+      "query_id": 27,
+      "query": "Renewable energy storage solutions",
+      "narrative": "The user wants to learn about batteries, pumped hydro, and hydrogen storage for renewables. Relevant documents cover grid stability and emerging technologies. Documents about non-storage topics are less relevant."
+    },
+    {
+      "query_id": 28,
+      "query": "Global renewable energy adoption rates",
+      "narrative": "The user seeks data on countries leading in renewables (e.g., Germany, China) and adoption challenges. Relevant documents cover policy frameworks and energy transitions. Documents about non-renewable adoption are irrelevant."
+    },
+    {
+      "query_id": 29,
+      "query": "Environmental impact of renewable energy",
+      "narrative": "The user wants to understand the ecological effects of renewable energy sources. Relevant documents should cover land use, wildlife impacts, and lifecycle assessments. Documents about fossil fuel impacts without renewable context are less relevant."
+    },
+    {
+      "query_id": 30,
+      "query": "Future trends in renewable energy technology",
+      "narrative": "The user seeks information on emerging technologies like solar panels, wind turbines, and biofuels. Relevant documents should cover innovations, research, and future projections. Documents about outdated technologies without future context are less relevant."
+    },
+    {
+      "query_id": 31,
+      "query": "How does excessive social media use impact adolescent mental health?",
+      "narrative": "User is interested in understanding the psychological effects of social media platforms on teenagers, including issues like anxiety, depression, self-esteem, and cyberbullying."
+    },
+    {
+      "query_id": 32,
+      "query": "Social media addiction and its effects",
+      "narrative": "User is looking for information on the addictive nature of social media platforms and its consequences on daily life, productivity, and relationships."
+    },
+    {
+      "query_id": 33,
+      "query": "Impact of social media on body image",
+      "narrative": "User wants to understand how social media influences perceptions of body image, including issues like eating disorders, self-esteem, and societal standards."
+    },
+    {
+      "query_id": 34,
+      "query": "Social media and misinformation",
+      "narrative": "User is interested in understanding how social media platforms contribute to the spread of misinformation and its societal implications."
+    },
+    {
+      "query_id": 35,
+      "query": "Social media's role in political polarization",
+      "narrative": "User wants to explore how social media contributes to political polarization and echo chambers, including its effects on public discourse and democracy."
+    },
+    {
+      "query_id": 36,
+      "query": "Do video games enhance or hinder cognitive development in children?",
+      "narrative": "User seeks to understand whether video games improve skills like problem-solving, memory, and attention or contribute to negative effects like addiction and aggression in children."
+    },
+    {
+      "query_id": 37,
+      "query": "How does bilingualism affect cognitive skills?",
+      "narrative": "User is interested in understanding the cognitive advantages or disadvantages of being bilingual, including effects on memory, attention, and problem-solving."
+    },
+    {
+      "query_id": 38,
+      "query": "The impact of early childhood education on cognitive development",
+      "narrative": "User seeks to understand how early childhood education programs influence cognitive skills, including language, math, and social skills."
+    },
+    {
+      "query_id": 39,
+      "query": "The role of nutrition in cognitive development",
+      "narrative": "User is interested in understanding how nutrition affects cognitive skills, including memory, attention, and learning abilities."
+    },
+    {
+      "query_id": 40,
+      "query": "The effects of screen time on cognitive development in children",
+      "narrative": "User seeks to understand how screen time affects cognitive skills, including attention, memory, and learning abilities."
+    },
+    {
+      "query_id": 41,
+      "query": "How does sleep duration affect students' academic performance?",
+      "narrative": "User seeks to understand the impact of sleep quality, duration, and sleep disorders on cognitive function, learning ability, and exam performance in students."
+    },
+    {
+      "query_id": 42,
+      "query": "The relationship between sleep and mental health",
+      "narrative": "User is interested in understanding how sleep quality and disorders affect mental health conditions like anxiety, depression, and stress."
+    },
+    {
+      "query_id": 43,
+      "query": "How does sleep affect physical health?",
+      "narrative": "User seeks to understand the impact of sleep on physical health, including its role in immune function, metabolism, and chronic diseases."
+    },
+    {
+      "query_id": 44,
+      "query": "The effects of sleep disorders on daily life",
+      "narrative": "User is interested in understanding how sleep disorders like insomnia and sleep apnea affect daily functioning, mood, and overall quality of life."
+    },
+    {
+      "query_id": 45,
+      "query": "Sleep hygiene practices for better sleep quality",
+      "narrative": "User seeks to learn about effective sleep hygiene practices that can improve sleep quality and duration."
+    },
+    {
+      "query_id": 46,
+      "query": "History of human spaceflight",
+      "narrative": "The user wants to understand the major milestones in human space exploration from the first launch to the present. Relevant documents should discuss key missions, astronauts, and space agencies."
+    },
+    {
+      "query_id": 47,
+      "query": "Current space missions and projects",
+      "narrative": "The user is looking for information on active space missions such as Artemis, Mars rovers, and private space flights. Documents should focus on ongoing or upcoming efforts in space exploration."
+    },
+    {
+      "query_id": 48,
+      "query": "Private companies in space exploration",
+      "narrative": "The user wants to explore the role of private space companies like SpaceX, Blue Origin, and others. Relevant documents should include technologies, missions, and industry impact."
+    },
+    {
+      "query_id": 49,
+      "query": "Challenges of long-term space travel",
+      "narrative": "The user seeks information on health risks, life support, and engineering challenges faced during prolonged space missions like those to Mars."
+    },
+    {
+      "query_id": 50,
+      "query": "International collaboration in space programs",
+      "narrative": "The user is interested in how countries collaborate on space missions, including partnerships like the ISS and global satellite projects."
+    }
+  ]
+}
